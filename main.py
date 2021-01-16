@@ -65,7 +65,7 @@ def speak(string):
     playsound(file)
     os.remove(file)
 
-speak('Nasıl yardımcı olabilirim?')
+speak('Nasıl yardımcı olabilirim Mücahit?')
 time.sleep(1)
 while 1:
     voice = record()
